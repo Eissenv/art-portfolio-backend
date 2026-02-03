@@ -8,7 +8,7 @@ Este backend serve ao repositório [art-portfolio-frontend](https://github.com/E
 
 - **Python**
 - **FastAPI**
-- **Cloudnary**
+- **Cloudinary**
 
 ---
 
